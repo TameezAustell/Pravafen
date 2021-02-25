@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:South Africa Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=TMoosa@austell.co.za;ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:TMoo
+	sa@austell.co.za
+ATTENDEE;CN=anchene@austell.co.za;RSVP=TRUE:mailto:anchene@austell.co.za
+ATTENDEE;CN=CWilmans@austell.co.za;RSVP=TRUE:mailto:CWilmans@austell.co.za
+ATTENDEE;CN=hafeezm@austell.co.za;RSVP=TRUE:mailto:hafeezm@austell.co.za
+ATTENDEE;CN=jkayton@austell.co.za;RSVP=TRUE:mailto:jkayton@austell.co.za
+ATTENDEE;CN=febrahim@austell.co.za;RSVP=TRUE:mailto:febrahim@austell.co.za
+ATTENDEE;CN=sgani@austell.co.za;RSVP=TRUE:mailto:sgani@austell.co.za
+ATTENDEE;CN=prospanroom@austell.co.za;CUTYPE=RESOURCE;ROLE=NON-PARTICIPANT;
+	RSVP=TRUE:mailto:prospanroom@austell.co.za
+ATTENDEE;CN=dmaree@austell.co.za;RSVP=TRUE:mailto:dmaree@austell.co.za
+ATTENDEE;CN=psmith@austell.co.za;RSVP=TRUE:mailto:psmith@austell.co.za
+ATTENDEE;CN=MGSallie@austell.co.za;RSVP=TRUE:mailto:MGSallie@austell.co.za
+ATTENDEE;CN=DMore@austell.co.za;RSVP=TRUE:mailto:DMore@austell.co.za
+CLASS:PUBLIC
+CREATED:20210225T151548Z
+DESCRIPTION: \n\n__________________________________________________________
+	______________________ \n\nMicrosoft Teams meeting \n\nJoin on your comput
+	er or mobile app \n\nClick here to join the meeting <https://teams.microso
+	ft.com/l/meetup-join/19%3ameeting_NzQ1M2IyMDktYTk3NS00M2VhLTk5OWYtZDI0MDk0
+	ZWYxNTFi%40thread.v2/0?context=%7b%22Tid%22%3a%22e3988269-d52f-40f6-852a-d
+	6b1a5c959e3%22%2c%22Oid%22%3a%22790731ab-401b-4efe-bc5e-c89b1728654f%22%7d
+	>  \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <ht
+	tps://teams.microsoft.com/meetingOptions/?organizerId=790731ab-401b-4efe-b
+	c5e-c89b1728654f&tenantId=e3988269-d52f-40f6-852a-d6b1a5c959e3&threadId=19
+	_meeting_NzQ1M2IyMDktYTk3NS00M2VhLTk5OWYtZDI0MDk0ZWYxNTFi@thread.v2&messag
+	eId=0&language=en-US>  \n\n_______________________________________________
+	_________________________________ \n\n \n\n
+DTEND;TZID="South Africa Standard Time":20210225T171500
+DTSTAMP:20210104T152842Z
+DTSTART;TZID="South Africa Standard Time":20210225T170000
+LAST-MODIFIED:20210225T151548Z
+LOCATION:Prospan Room
+ORGANIZER;CN="Nasreen Moses":mailto:pa2ceo@austell.co.za
+PRIORITY:5
+RECURRENCE-ID;TZID="South Africa Standard Time":20210225T170000
+SEQUENCE:15
+SUMMARY:Pravafen touch base meeting 
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000050525FA85E33D601000000000000000
+	010000000D8956C2F2B572A4182C1CAC9C2F4EF3D
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta name="Gener
+	ator" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font D
+	efinitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5
+	 3 5 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2
+	 2 2 4 3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 
+	2 4 2 4 2 2 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose
+	-1:2 11 7 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoN
+	ormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:11.0pt\;\n	font-family:"
+	Calibri"\,sans-serif\;\n	mso-fareast-language:EN-US\;}\na:link\, span.MsoH
+	yperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:un
+	derline\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	font-
+	family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{ms
+	o-style-type:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{si
+	ze:612.0pt 792.0pt\;\n	margin:72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSect
+	ion1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shap
+	edefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte ms
+	o 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" /
+	>\n</o:shapelayout></xml><![endif]--></head><body lang="EN-ZA" link="#0563
+	C1" vlink="#954F72" style="word-wrap:break-word"><div class="WordSection1"
+	><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><div><div><p class="MsoNormal"
+	><span style="color:#5F5F5F">_____________________________________________
+	___________________________________</span> <o:p></o:p></p></div><div><div 
+	style="margin-top:18.0pt\;margin-bottom:15.0pt"><p class="MsoNormal"><span
+	 style="font-size:18.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;
+	color:#252424">Microsoft Teams meeting</span><span style="font-family:&quo
+	t\;Segoe UI&quot\;\,sans-serif\;color:#252424"> <o:p></o:p></span></p></di
+	v><div style="margin-bottom:15.0pt"><div><p class="MsoNormal"><b><span sty
+	le="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;colo
+	r:#252424">Join on your computer or mobile app</span></b><b><span style="f
+	ont-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"> <o:p></o:p>
+	</span></b></p></div><p class="MsoNormal"><span style="font-family:&quot\;
+	Segoe UI&quot\;\,sans-serif\;color:#252424"><a href="https://teams.microso
+	ft.com/l/meetup-join/19%3ameeting_NzQ1M2IyMDktYTk3NS00M2VhLTk5OWYtZDI0MDk0
+	ZWYxNTFi%40thread.v2/0?context=%7b%22Tid%22%3a%22e3988269-d52f-40f6-852a-d
+	6b1a5c959e3%22%2c%22Oid%22%3a%22790731ab-401b-4efe-bc5e-c89b1728654f%22%7d
+	" target="_blank"><span style="font-size:10.5pt\;font-family:&quot\;Segoe 
+	UI Semibold&quot\;\,sans-serif\;color:#6264A7">Click here to join the meet
+	ing</span></a> <o:p></o:p></span></p></div><div style="margin-top:15.0pt\;
+	margin-bottom:18.0pt"><p class="MsoNormal"><span style="font-family:&quot\
+	;Segoe UI&quot\;\,sans-serif\;color:#252424"><a href="https://aka.ms/JoinT
+	eamsMeeting" target="_blank"><span style="font-size:10.5pt\;color:#6264A7"
+	>Learn More</span></a> | <a href="https://teams.microsoft.com/meetingOptio
+	ns/?organizerId=790731ab-401b-4efe-bc5e-c89b1728654f&amp\;tenantId=e398826
+	9-d52f-40f6-852a-d6b1a5c959e3&amp\;threadId=19_meeting_NzQ1M2IyMDktYTk3NS0
+	0M2VhLTk5OWYtZDI0MDk0ZWYxNTFi@thread.v2&amp\;messageId=0&amp\;language=en-
+	US" target="_blank"><span style="font-size:10.5pt\;color:#6264A7">Meeting 
+	options</span></a> <o:p></o:p></span></p></div></div><div><p class="MsoNor
+	mal"><span style="color:#5F5F5F">_________________________________________
+	_______________________________________</span> <o:p></o:p></p></div></div>
+	<p class="MsoNormal"><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20200827T122749Z
+END:VEVENT
+END:VCALENDAR
